@@ -1,0 +1,4 @@
+out/*
+
+!out/checkers_test.html
+!out/checkers_test.js
